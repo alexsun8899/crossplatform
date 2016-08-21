@@ -24,4 +24,6 @@ namespace CrossPlatform
     }
 
     // this is a comment about this class
+
+    //hello
 }
