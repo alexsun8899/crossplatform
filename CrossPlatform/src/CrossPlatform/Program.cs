@@ -22,4 +22,6 @@ namespace CrossPlatform
             host.Run();
         }
     }
+
+    // this is a comment about this class
 }
